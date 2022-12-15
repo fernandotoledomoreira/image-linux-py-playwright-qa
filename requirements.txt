@@ -1,0 +1,8 @@
+playwright
+pytest-playwright
+boto3
+python-dotenv
+allure-pytest
+logzero
+jsonschema
+pytest-xdist
